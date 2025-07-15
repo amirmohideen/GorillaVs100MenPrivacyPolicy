@@ -1,45 +1,83 @@
-# GorillaVs100MenPrivacyPolicy
+# Gorilla vs 100 Men Privacy Policy
 
-## PRIVACY POLICY FOR GORILLA VS 100 MEN ON QUEST 2, QUEST PRO, AND QUEST 3
+**Effective Date:** July 15, 2025  
+**Developer:** 10XVAR  
+**Platform:** Meta Quest 2, Quest Pro, and Quest 3
 
-**Gorilla vs 100 Men** is an application developed by **10XVAR** for the Meta Quest platform. We prioritize your privacy and comply with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is offline by default and does not require an internet connection to play. We do not collect, store, or process any personal information, data, or usage statistics. We will never request, gather, or transmit any data beyond what is necessary for gameplay functionality.
+## Overview
 
-## COMMITMENT TO CONFIDENTIALITY
+**Gorilla vs 100 Men** is an offline action game developed by **10XVAR** for the Meta Quest platform. We value your privacy and ensure our app aligns with data protection laws including the **General Data Protection Regulation (GDPR)**, the **California Consumer Privacy Act (CCPA)**, and **Meta’s Data Use Policy**.
 
-**10XVAR** is committed to safeguarding your privacy while you play **Gorilla vs 100 Men** on the Meta Quest platform. Below are the key points of our privacy policy:
+Although the game functions entirely offline and does not rely on internet-based features, certain data may be **accessible through Meta’s platform integration**, as listed below. This privacy policy outlines **what data is accessible**, **how we use (or don’t use) it**, and **your rights as a user**.
 
-### Confidential Information
+---
 
-"Confidential Information" refers to any data or information exchanged between **10XVAR** and the user. In the context of this game, **no personal data is collected or exchanged**. The game runs locally on your device and does not transmit any data externally.
+## Data Collected via Meta Platform Access
 
-### Ownership and Use of Data
+**Gorilla vs 100 Men** may have access to the following Meta-provided data through platform permissions:
 
-Any information related to your gameplay remains entirely private. We do not transmit, sell, or monetize any data. **Gorilla vs 100 Men** does not collect or store any personal information, and no third-party providers have access to any usage data.
+| Data Type         | Description                                                                  | Collected? | Used? | Purpose                             |
+|-------------------|------------------------------------------------------------------------------|------------|-------|-------------------------------------|
+| **User ID**        | Unique ID assigned by Meta to identify your profile                         | Yes        | No    | Not used                            |
+| **User Profile**   | Includes your Oculus username and profile photo                             | Yes        | No    | Not used                            |
+| **User Age Group** | Metadata indicating if you are under or over 13 (or regionally equivalent)  | Yes        | No    | Not used                            |
+| **Meta Avatars**   | Avatar system and visual identity tools                                     | Yes        | No    | Not used; SDK integrated but inactive |
 
-### Duration of the Agreement
+We **do not store, transmit, analyze, or use** any of the above data. These permissions are **only enabled due to default Meta SDK integration** or future optional features.
 
-This privacy agreement becomes effective when you download and install **Gorilla vs 100 Men** and remains in effect for as long as you use the game. Since no data is collected, your privacy is continuously maintained.
+---
 
-### Governing Law and Jurisdiction
+## How We Use Your Data
 
-This privacy policy is governed by the laws applicable in your country of residence. Any disputes related to this policy will be handled under relevant legal jurisdictions.
+We currently **do not use** any user data collected via Meta's platform features.  
+- There is **no in-game personalization**, analytics, online features, or advertising.  
+- **All gameplay is fully offline and local to the headset.**
 
-## USER RIGHTS & DATA PROTECTION
+---
 
-As **Gorilla vs 100 Men** does not collect, store, or process any personal data, you maintain full control over your information. There are no user rights to exercise in relation to personal data, as we do not request or handle such information.
+## Data Sharing and Third Parties
 
-## DATA TRANSMISSION
+We do **not** share, sell, or transmit any user data to:
+- Advertisers  
+- Analytics providers  
+- Cloud storage services  
+- External servers or third-party APIs
 
-**Gorilla vs 100 Men** does not transmit any data to us or to any third parties. The game runs entirely offline, and no information about your gameplay, scores, or system usage is logged or stored.
+Our app contains **no third-party SDKs** other than required Meta SDKs for basic platform compliance.
 
-## HOW WE PROTECT YOUR PRIVACY
+---
 
-**10XVAR** is dedicated to respecting your privacy throughout your experience with **Gorilla vs 100 Men**. Specifically, we guarantee that:
+## Your Rights
 
-- The game operates fully offline without collecting personal data.
-- No browsing history, gameplay statistics, or usage behavior is tracked.
-- No personal information is ever shared with third parties.
-- The application remains entirely local and private on your Meta Quest device.
+Although we do not actively collect or process your personal information, we uphold your global data rights:
 
-By playing **Gorilla vs 100 Men**, you acknowledge and agree to the terms outlined in this privacy policy.  
-If you have any questions or concerns about your privacy, feel free to contact us.
+- **Right to Access** – You may request confirmation of any data we may have access to (which is none beyond platform data).
+- **Right to Deletion** – You may request the deletion of any personal data **regardless of your country or region**.
+- **Right to Withdraw Consent** – You may revoke platform permission (e.g., avatar, profile access) through Meta system settings.
+
+To exercise these rights or ask questions, email us at: 10xvar@gmail.com
+
+---
+
+## Children’s Privacy
+
+Our app is designed for general audiences. We do not knowingly collect any personal data from users under the age of 13 (or the minimum age in their jurisdiction). Meta’s age group metadata may identify a user as under 13, but **we do not use or process that information**.
+
+---
+
+## Updates to This Policy
+
+We may update this policy if data practices change (e.g., introduction of online features). All updates will be reflected in this document and dated accordingly.
+
+---
+
+## Contact Information
+
+**Developer:** 10XVAR  
+**Email:** 10xvar@gmail.com
+
+For any privacy-related concerns or data rights requests, please contact us at the email above.
+
+---
+
+By using **Gorilla vs 100 Men**, you acknowledge and accept this privacy policy.
