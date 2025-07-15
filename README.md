@@ -47,6 +47,16 @@ Our app contains **no third-party SDKs** other than required Meta SDKs for basic
 
 ---
 
+## Public Authority Requests
+
+In the unlikely event that we receive a legally valid request from a government or public authority regarding user data, **10XVAR** maintains a **data minimization policy**. This means:
+
+- We will **only disclose the minimum amount of information necessary** to comply with lawful obligations.
+- Since we do not collect or store personal data, we expect such disclosures to be extremely limited or not applicable.
+- We evaluate all such requests to ensure they are **lawful, necessary, and proportionate**.
+
+---
+
 ## Your Rights
 
 Although we do not actively collect or process your personal information, we uphold your global data rights:
